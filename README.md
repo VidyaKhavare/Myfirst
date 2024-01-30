@@ -1,2 +1,4 @@
 # Myfirst
-my first repository
+my first repository.it is my first repositoy.
+By vidya khavare
+
